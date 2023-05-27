@@ -1,7 +1,7 @@
 {
   "description": "Ai desk for chrome and happy surface ai internet.",
   "docker_registry": "https://index.docker.io/v1/",
-  "name": "andyoulovexy/chrome_ai:v99",
+  "name": "andyoulovexy/chrome_ai:v222",
   "image_src": "ks.png",
   "categories": [
     "Browser"
